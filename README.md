@@ -1,4 +1,4 @@
 # Padrões de Projeto — AV
 
-- **Nome completo:** Daniel Henrique Bichof Alves
-
+- Nome: Daniel Henrique Bichof Alves
+- Turma: CS - Terça-feira - Noite
